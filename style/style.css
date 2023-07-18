@@ -125,3 +125,41 @@ nav{
     background: #4EC5F7;
     border: none;
 }
+/* online game section */
+.games-box{
+    margin: 50px 240px;
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.games{
+    width: 342px;
+    height: 484px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.game-pic-1{
+    width: 342px;
+    height: 400px;
+    border-radius: 16px;
+    background: url(/images/Rectangle\ 4.png), lightgray 50% / cover no-repeat; 
+}
+.game-pic-2{
+    width: 342px;
+    height: 400px;
+    border-radius: 16px;
+    background: url(/images/Rectangle\ 5.png), lightgray 50% / cover no-repeat; 
+}
+.game-pic-3{
+    width: 342px;
+    height: 400px;
+    border-radius: 16px;
+    background: url(/images/Rectangle\ 7.png), lightgray 50% / cover no-repeat; 
+}
+.game-pic-4{
+    width: 342px;
+    height: 400px;
+    border-radius: 16px;
+    background: url(/images/Rectangle\ 6.png), lightgray 50% / cover no-repeat; 
+}
